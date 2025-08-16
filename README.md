@@ -40,7 +40,7 @@ The application will be available at `http://localhost:8080`
 
 ## 📸 Screenshots
 
-*   ![Screenshots 1](screenshots/1.png)
+   ![Screenshots 1](screenshots/1.png)
 
 ## 📊 MCDM Methods Overview
 
