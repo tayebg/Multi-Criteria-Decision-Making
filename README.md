@@ -26,7 +26,7 @@ A comprehensive web application for learning and applying advanced multi-criteri
 ### Installation
 ```bash
 # Clone the repository
-git clone <tayebg/Multi-Criteria-Decision-Making>
+git clone <github.com/tayebg/Multi-Criteria-Decision-Making>
 cd mcdm-toolkit
 
 # Install dependencies
