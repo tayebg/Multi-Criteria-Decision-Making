@@ -11,6 +11,6 @@ A comprehensive web application for learning and applying advanced multi-criteri
 - Tailwind CSS
 - Framer Motion
   
-##  Screenshots
+##  Screenshot
 
    ![Screenshots 1](screenshots/1.png)
